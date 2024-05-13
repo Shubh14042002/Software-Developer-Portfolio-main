@@ -10,7 +10,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  background-color: #00bf73;
+  background-color: #000000;
   background-image: url("/Hexagon.svg" );
   scroll-behavior: smooth;
 }

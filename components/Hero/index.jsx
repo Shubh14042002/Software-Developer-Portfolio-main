@@ -15,8 +15,8 @@ const Hero = () => {
           Shubham Aggarwal
         </h1>
         <p className="text-md text-gray-400 leading-7 my-4 sm:text-lg sm:leading-8">
-        Hello! I’m a Software Engineering student at the University of Calgary, where I’m also dipping my toes into Aerospace Engineering — because why not shoot for the stars? When I’m not tackling code in Java, C, C++ or Python, you can find me lifting weights at the gym or hitting squash balls like they’re bugs in my programs.
-        I've been on this software journey for four years and love every bug-fixing, eureka-discovering, coffee-fueled moment of it!Let's build something awesome together! 🚀💻
+        Hello! I&apos;m a Software Engineering student at the University of Calgary, where I&apos;m also dipping my toes into Aerospace Engineering — because why not shoot for the stars? When I&apos;m not tackling code in Java, C, C++ or Python, you can find me lifting weights at the gym or hitting squash balls like they&apos;re bugs in my programs.
+        I&apos;ve been on this software journey for four years and love every bug-fixing, eureka-discovering, coffee-fueled moment of it!Let&apos;s build something awesome together! 🚀💻
         </p>
         <div className="my-7 flex justify-start items-center gap-4 flex-wrap">
           <button className="bg-teal-500 py-2 px-4 font-bold text-white border-2 border-teal-500 rounded-md ease-in-out duration-150 hover:text-white hover:bg-transparent hover:border-white" title="View Resume">
